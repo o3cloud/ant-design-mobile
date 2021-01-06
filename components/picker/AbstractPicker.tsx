@@ -209,6 +209,7 @@ export default abstract class AbstractPicker extends React.Component<
           React.isValidElement(children) &&
           React.cloneElement<{extra?: string}>(children, {
             extra: this.getSel() || extra || _locale.extra,
+            className: this.getSel() ? 'picker-current' : 'picker-default',
           })}
       </RMCPopupCascader>
     );
