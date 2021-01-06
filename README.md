@@ -47,6 +47,7 @@ http://mobile.ant.design/kitchen-sink/
 - [Developer Instruction](http://github.com/ant-design/ant-design-mobile/blob/master/development.en-US.md)
 - [React components](http://github.com/react-component/)
 - [Demos](https://github.com/ant-design/antd-mobile-samples)
+- [打包配置](https://github.com/ant-design/antd-tools/issues/145)
 
 ## Contributing
 

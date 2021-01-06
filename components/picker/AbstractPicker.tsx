@@ -39,7 +39,6 @@ export default abstract class AbstractPicker extends React.Component<
 > {
   protected abstract popupProps: {};
   private scrollValue: any;
-
   getSel = () => {
     const value = this.props.value || [];
     let treeChildren: PickerData[];
@@ -207,7 +206,7 @@ export default abstract class AbstractPicker extends React.Component<
         {children &&
           typeof children !== 'string' &&
           React.isValidElement(children) &&
-          React.cloneElement<{extra?: string}>(children, {
+          React.cloneElement<{extra?: string, className?: string }>(children, {
             extra: this.getSel() || extra || _locale.extra,
             className: this.getSel() ? 'picker-current' : 'picker-default',
           })}
