@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
+exports['renders ./components/locale-provider/demo/basic.md correctly 1'] = `
 <div
   class="am-wingblank am-wingblank-lg"
 >
   <div>
     <div
-      class="am-list-item am-list-item-middle"
+      class="am-list-item picker-current am-list-item-middle"
     >
       <div
         class="am-list-line"
@@ -99,7 +99,7 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
       >
         <div>
           <div
-            class="am-list-item am-list-item-middle"
+            class="am-list-item picker-default am-list-item-middle"
           >
             <div
               class="am-list-line"
@@ -127,7 +127,7 @@ exports[`renders ./components/locale-provider/demo/basic.md correctly 1`] = `
         </div>
         <div>
           <div
-            class="am-list-item am-list-item-middle"
+            class="am-list-item picker-default am-list-item-middle"
           >
             <div
               class="am-list-line"

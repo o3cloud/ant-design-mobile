@@ -2,35 +2,35 @@
 
 exports[`ImagePicker renders correctly 1`] = `
 initialize {
-  "0": Object {
+  "0": Node {
     "attribs": Object {
       "class": "am-image-picker",
     },
     "children": Array [
-      Object {
+      Node {
         "attribs": Object {
           "class": "am-image-picker-list",
           "role": "group",
         },
         "children": Array [
-          Object {
+          Node {
             "attribs": Object {
               "class": "am-flexbox am-flexbox-align-center",
             },
             "children": Array [
-              Object {
+              Node {
                 "attribs": Object {
                   "class": "am-flexbox-item",
                 },
                 "children": Array [
-                  Object {
+                  Node {
                     "attribs": Object {
                       "aria-label": "Choose and add image",
                       "class": "am-image-picker-item am-image-picker-upload-btn",
                       "role": "button",
                     },
                     "children": Array [
-                      Object {
+                      Node {
                         "attribs": Object {
                           "accept": "image/*",
                           "type": "file",
@@ -72,21 +72,21 @@ initialize {
                 ],
                 "name": "div",
                 "namespace": "http://www.w3.org/1999/xhtml",
-                "next": Object {
+                "next": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
                   "children": Array [],
                   "name": "div",
                   "namespace": "http://www.w3.org/1999/xhtml",
-                  "next": Object {
+                  "next": Node {
                     "attribs": Object {
                       "class": "am-flexbox-item",
                     },
                     "children": Array [],
                     "name": "div",
                     "namespace": "http://www.w3.org/1999/xhtml",
-                    "next": Object {
+                    "next": Node {
                       "attribs": Object {
                         "class": "am-flexbox-item",
                       },
@@ -134,21 +134,21 @@ initialize {
                   "class": undefined,
                 },
               },
-              Object {
+              Node {
                 "attribs": Object {
                   "class": "am-flexbox-item",
                 },
                 "children": Array [],
                 "name": "div",
                 "namespace": "http://www.w3.org/1999/xhtml",
-                "next": Object {
+                "next": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
                   "children": Array [],
                   "name": "div",
                   "namespace": "http://www.w3.org/1999/xhtml",
-                  "next": Object {
+                  "next": Node {
                     "attribs": Object {
                       "class": "am-flexbox-item",
                     },
@@ -177,19 +177,19 @@ initialize {
                   },
                 },
                 "parent": [Circular],
-                "prev": Object {
+                "prev": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
                   "children": Array [
-                    Object {
+                    Node {
                       "attribs": Object {
                         "aria-label": "Choose and add image",
                         "class": "am-image-picker-item am-image-picker-upload-btn",
                         "role": "button",
                       },
                       "children": Array [
-                        Object {
+                        Node {
                           "attribs": Object {
                             "accept": "image/*",
                             "type": "file",
@@ -250,14 +250,14 @@ initialize {
                   "class": undefined,
                 },
               },
-              Object {
+              Node {
                 "attribs": Object {
                   "class": "am-flexbox-item",
                 },
                 "children": Array [],
                 "name": "div",
                 "namespace": "http://www.w3.org/1999/xhtml",
-                "next": Object {
+                "next": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
@@ -276,7 +276,7 @@ initialize {
                   },
                 },
                 "parent": [Circular],
-                "prev": Object {
+                "prev": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
@@ -285,19 +285,19 @@ initialize {
                   "namespace": "http://www.w3.org/1999/xhtml",
                   "next": [Circular],
                   "parent": [Circular],
-                  "prev": Object {
+                  "prev": Node {
                     "attribs": Object {
                       "class": "am-flexbox-item",
                     },
                     "children": Array [
-                      Object {
+                      Node {
                         "attribs": Object {
                           "aria-label": "Choose and add image",
                           "class": "am-image-picker-item am-image-picker-upload-btn",
                           "role": "button",
                         },
                         "children": Array [
-                          Object {
+                          Node {
                             "attribs": Object {
                               "accept": "image/*",
                               "type": "file",
@@ -366,7 +366,7 @@ initialize {
                   "class": undefined,
                 },
               },
-              Object {
+              Node {
                 "attribs": Object {
                   "class": "am-flexbox-item",
                 },
@@ -375,7 +375,7 @@ initialize {
                 "namespace": "http://www.w3.org/1999/xhtml",
                 "next": null,
                 "parent": [Circular],
-                "prev": Object {
+                "prev": Node {
                   "attribs": Object {
                     "class": "am-flexbox-item",
                   },
@@ -384,7 +384,7 @@ initialize {
                   "namespace": "http://www.w3.org/1999/xhtml",
                   "next": [Circular],
                   "parent": [Circular],
-                  "prev": Object {
+                  "prev": Node {
                     "attribs": Object {
                       "class": "am-flexbox-item",
                     },
@@ -393,19 +393,19 @@ initialize {
                     "namespace": "http://www.w3.org/1999/xhtml",
                     "next": [Circular],
                     "parent": [Circular],
-                    "prev": Object {
+                    "prev": Node {
                       "attribs": Object {
                         "class": "am-flexbox-item",
                       },
                       "children": Array [
-                        Object {
+                        Node {
                           "attribs": Object {
                             "aria-label": "Choose and add image",
                             "class": "am-image-picker-item am-image-picker-upload-btn",
                             "role": "button",
                           },
                           "children": Array [
-                            Object {
+                            Node {
                               "attribs": Object {
                                 "accept": "image/*",
                                 "type": "file",
@@ -516,22 +516,17 @@ initialize {
     "name": "div",
     "namespace": "http://www.w3.org/1999/xhtml",
     "next": null,
-    "parent": null,
-    "prev": null,
-    "root": Object {
-      "attribs": Object {},
+    "parent": Node {
       "children": Array [
         [Circular],
       ],
       "name": "root",
-      "namespace": "http://www.w3.org/1999/xhtml",
       "next": null,
       "parent": null,
       "prev": null,
       "type": "root",
-      "x-attribsNamespace": Object {},
-      "x-attribsPrefix": Object {},
     },
+    "prev": null,
     "type": "tag",
     "x-attribsNamespace": Object {
       "class": undefined,
@@ -544,8 +539,6 @@ initialize {
   "length": 1,
   "options": Object {
     "decodeEntities": true,
-    "normalizeWhitespace": false,
-    "withDomLvl1": true,
     "xml": false,
   },
 }
